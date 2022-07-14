@@ -1,0 +1,42 @@
+functions:
+
+functions group of statements
+
+why functions?
+
+functions makes the code reusable .
+we can declare it once and use it multiple times .
+functions makes the program easier as each small task is divide into sa functions.
+incresases readability.
+
+types of javascript functions:
+
+named or normal functions.
+Anonymous functions..
+IIFE functions
+Arrow functions
+
+named function:
+syntax: function functionname(parameters){return} functionname(arguments) or console.log(functionname())
+
+return keyword:
+it means the program gets stopped
+we cant use return keyword outside the function.
+
+Anonymous function:we sholud declare the function inside a variable name .
+syntax: variable variablename = function (){return()}
+
+IIFE:
+immediately invoked function expression.
+less consumption of memory.
+syntax: (function (){no return}) ();
+we use this rarely.
+here function name is optional.
+
+Arrow function:
+ES6= ecmascript6(latest version)
+syntax: variable variablename = () => {};
+we can or we wont
+code redundancy
+
+
